@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Name_update">Name</string>
+    <string name="animate">animate</string>
+    <string name="look_my_animation">Look My Animation</string>
+    <string name="_12">12</string>
+    <string name="todo">TODO</string>
+    <string name="hello_increase_me">Hello Increase Me</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="button">Add User</string>
+    <string name="button1">View User</string>
+    <string name="button2">Update User</string>
+    <string name="button3">Delete User</string>
+</resources>
